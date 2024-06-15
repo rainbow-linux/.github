@@ -1,9 +1,14 @@
-## Rainbow Linux
+# Rainbow Linux
 
-A Fedora-based Linux distribution for everyone
+Rainbow Linux - The Linux Distribution For Everyone!
 
-(sorry for the huge WIP page but you may join us and help us write something better!)
+## 🌈 Who Should Prefer Rainbow Linux?
 
+- Users who want to mainly use or at least try Linux but are afraid of it being hard to use for a normal user.
+- Users who want an easy-to-use and out-of-the-box Linux distribution for daily driving.
+- Gamers or users who want their hardware to reach the best performance possible
+- Programmers
+- Content Creators
 <!--
 
 **Here are some ideas to get you started:**
@@ -15,8 +20,6 @@ A Fedora-based Linux distribution for everyone
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Get Involved
-
-official contact channels:
-- [discord](https://github.com/rainbow-linux)
-- [email](mailto:contact@rainbow.yigitovski.com)
+## Official Contact Channels
+- [Our Discord Community:](https://discord.gg/YNP33vSF79)
+- [E-Mail](mailto:contact@rainbow.yigitovski.com)
