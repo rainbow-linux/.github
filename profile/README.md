@@ -1,14 +1,19 @@
 # Rainbow Linux
 
-Rainbow Linux - The Linux Distribution For Everyone!
+**Rainbow Linux** - The Linux Distribution For Everyone!
+
+## 📃 Information About Rainbow Linux
+- Rainbow Linux is a based Linux distribution.
+- We made it easy to use for normal users, which means you don't have to use terminal to perform simple tasks at all.
+- You can expect an out of the box experience from Rainbow Linux.
 
 ## 🌈 Who Should Prefer Rainbow Linux?
 
 - Users who want to mainly use or at least try Linux but are afraid of it being hard to use for a normal user.
-- Users who want an easy-to-use and out-of-the-box Linux distribution for daily driving.
-- Gamers or users who want their hardware to reach the best performance possible
-- Programmers
-- Content Creators
+- Gamers or users who want their hardware to reach the best performance possible.
+- Laptop users who need good battery efficiency.
+- Programmers.
+- Content Creators.
 <!--
 
 **Here are some ideas to get you started:**
