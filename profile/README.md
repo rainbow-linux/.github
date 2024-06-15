@@ -20,6 +20,6 @@ Rainbow Linux - The Linux Distribution For Everyone!
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## Official Contact Channels
-- [Our Discord Community:](https://discord.gg/YNP33vSF79)
-- [E-Mail](mailto:contact@rainbow.yigitovski.com)
+## 🙋‍♀️ Contact
+- **Discord:** (https://discord.gg/YNP33vSF79)
+- [Contact E-Mail](mailto:contact@rainbow.yigitovski.com)
