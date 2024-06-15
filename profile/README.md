@@ -21,5 +21,5 @@ Rainbow Linux - The Linux Distribution For Everyone!
 -->
 
 ## 🙋‍♀️ Contact
-- **Discord:** (https://discord.gg/YNP33vSF79)
-- [Contact E-Mail](mailto:contact@rainbow.yigitovski.com)
+- **Discord:** https://discord.gg/YNP33vSF79
+- **Contact E-Mail:** mailto:contact@rainbow.yigitovski.com
