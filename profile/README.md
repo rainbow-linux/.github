@@ -13,7 +13,7 @@
 - Gamers or users who want their hardware to reach the best performance possible.
 - Laptop users who need good battery efficiency.
 - Programmers.
-- Content Creators.
+- Content creators.
 <!--
 
 **Here are some ideas to get you started:**
