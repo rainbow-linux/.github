@@ -3,7 +3,7 @@
 **Rainbow Linux** - The Linux Distribution For Everyone!
 
 ## 📃 Information About Rainbow Linux
-- Rainbow Linux is a based Linux distribution.
+- Rainbow Linux is a Universal Blue based Linux distribution.
 - We made it easy to use for normal users, which means you don't have to use terminal to perform simple tasks at all.
 - You can expect an out of the box experience from Rainbow Linux.
 
@@ -25,6 +25,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## 🙋‍♀️ Contact
+## 🙋‍♀️ Contact Us
 - **Discord:** https://discord.gg/YNP33vSF79
 - **Contact E-Mail:** mailto:contact@rainbow.yigitovski.com
