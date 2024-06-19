@@ -27,4 +27,4 @@
 
 ## 🙋‍♀️ Contact Us
 - **Discord:** https://discord.gg/YNP33vSF79
-- **Contact E-Mail:** mailto:contact@rainbow.yigitovski.com
+- **Contact E-Mail:** contact@rainbow.yigitovski.com
