@@ -6,5 +6,5 @@
 - It uses [CachyOS Repositories](https://github.com/CachyOS/linux-cachyos#cachyos-repositories) which deliver **more stable and better optimized packages**.
 - It has a profile called [Rainbow Gaming Mode](https://github.com/rainbow-linux/rainbow-gaming-mode) which uses [CachyOS Kernel](https://github.com/CachyOS/linux-cachyos) and [Rainbow Gaming Utility](https://github.com/rainbow-linux/rainbow-gaming-utility) for the **best performance possible** while you're gaming.
 ## Our Links
-**Discord**: https://discord.gg/YNP33vSF79
-**E-Mail**: contact@rainbow.yigitovski.com
+- **Discord**: https://discord.gg/YNP33vSF79
+- **E-Mail**: contact@rainbow.yigitovski.com
