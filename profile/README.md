@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/discord/1248689680535523401?style=flat-square&logo=discord&color=%235865F2)](https://discord.gg/YNP33vSF79)
+===
 # **Rainbow Linux** - The Linux Distribution For Everyone 🌈
 ## Information About Rainbow Linux 🌈
 - Rainbow Linux is an **independent** Linux distribution that uses [Iris Package Manager](https://github.com/rainbow-linux/iris-pm) which is the package manager made by our team.
