@@ -8,4 +8,3 @@
 - It provides a profile called [Rainbow Gaming Mode](https://github.com/rainbow-linux/rainbow-gaming-mode) which installs gaming components and it uses [CachyOS Kernel](https://github.com/CachyOS/linux-cachyos), [Rainbow Gaming Utility](https://github.com/rainbow-linux/rainbow-gaming-utility) and many more configurations premade for the **best performance possible** while you're gaming.
 ## Our Links
 - **E-Mail**: contact@rainbow.yigitovski.com
-- **Discord**: https://discord.gg/YNP33vSF79
