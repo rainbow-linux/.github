@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/discord/1248689680535523401?style=flat-square&logo=discord&color=%235865F2)](https://discord.gg/YNP33vSF79)
+[![Discord](https://img.shields.io/discord/1248689680535523401?style=flat-square&logo=discord&color=%235865F2)](https://discord.gg/9rKruyB9uj)
 ===
 # **Rainbow Linux** - The Linux Distribution For Everyone 🌈
 ## Information About Rainbow Linux 🌈
